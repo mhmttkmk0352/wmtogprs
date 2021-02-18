@@ -1,1 +1,1 @@
-Isı payölçer algoritmasını cihazdan dinleyen yazılım.
+GPRS/GSM tabanlı payölçer dinleme cihazının sunucu taraflı yazılımı.
